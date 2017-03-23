@@ -1,2 +1,2 @@
 # MachineIntelligence
-Repositório de opiloto
+Repositório de piloto
